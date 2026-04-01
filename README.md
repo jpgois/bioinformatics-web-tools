@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://latex.now.sh/style.css">
+
 
 ## Universidade Federal do ABC
 
