@@ -5,7 +5,7 @@
 
 Professors:
 
-* João Paulo Gois   (joao.gois at ufabc.edu.br)
+* [João Paulo Gois](https://jpgois.github.io/)
   
 * Charles M. D. Santos  (charles.santos at ufabc.edu.br)
 
