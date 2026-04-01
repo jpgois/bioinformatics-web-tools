@@ -1,9 +1,15 @@
 
-##Universidade Federal do ABC
-###Bioinformatics Web Tools 
+## Universidade Federal do ABC
 
-Professors: João Paulo Gois   (joao.gois at ufabc.edu.br)
-            Charles M. D. Santos  (charles.santos at ufabc.edu.br)
+### Bioinformatics Web Tools 
+
+Professors:
+
+* João Paulo Gois   (joao.gois at ufabc.edu.br)
+  
+* Charles M. D. Santos  (charles.santos at ufabc.edu.br)
+
+  
 ----
 
 ### SAMBA: Super area-cladogram after resolving multiple biogeographical ambiguities
