@@ -1,5 +1,3 @@
-This portal centralizes access to the web applications developed in conjunction with our scientific publications. If the original links in the articles are unavailable, please use the directories below.
-
 ---
 
 ## SAMBA: Super area-cladogram after resolving multiple biogeographical ambiguities
