@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://latex.vercel.app/style.css">
-
-
 ## Universidade Federal do ABC
 
 ### Bioinformatics Web Tools 
