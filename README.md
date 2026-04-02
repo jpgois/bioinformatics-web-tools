@@ -14,7 +14,7 @@ Professors:
 ### SAMBA: Super area-cladogram after resolving multiple biogeographical ambiguities
 
 * **Reference:** Santos, D., Sampronha, S., Hammoud, M., Gois, J. P., & Santos, C. M. D. (2023). Journal of Biogeography, 50, 816–825. [https://doi.org/10.1111/jbi.14569](https://doi.org/10.1111/jbi.14569)
-* **Online Application:** [Access SAMBA](#) *(Note: Insert the new link here)*
+* **Online Application:** [Access iSAMBA](https://seia.pesquisa.ufabc.edu.br/isamba)
 
 <details>
 <summary>📄 Cite this (BibTeX)</summary>
