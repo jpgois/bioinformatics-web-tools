@@ -1,6 +1,3 @@
-<div style="max-width: 1400px; margin: 0 auto; width: 95%;">
-
-
 ## Universidade Federal do ABC
 
 ### Bioinformatics Web Tools 
