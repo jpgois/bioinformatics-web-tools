@@ -1,11 +1,4 @@
-<style>
-  /* Força a largura máxima do contêiner principal */
-  .markdown-body, .container, main, article, body {
-    max-width: 1400px !important; /* Ajuste este valor conforme a largura do seu monitor */
-    width: 95% !important;
-    margin: 0 auto !important;
-  }
-</style>
+<div style="max-width: 1400px; margin: 0 auto; width: 95%;">
 
 
 ## Universidade Federal do ABC
