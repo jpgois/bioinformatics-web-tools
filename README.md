@@ -1,3 +1,12 @@
+<style>
+  /* Força a largura máxima do contêiner principal */
+  .markdown-body, .container, main, article, body {
+    max-width: 1400px !important; /* Ajuste este valor conforme a largura do seu monitor */
+    width: 95% !important;
+    margin: 0 auto !important;
+  }
+</style>
+
 ## Universidade Federal do ABC
 
 ### Bioinformatics Web Tools 
