@@ -115,3 +115,26 @@ Professors:
 }
 </pre>
 </details>
+
+---
+
+### A sketch-based system for modeling 3D objects: Applications to taxonomy
+
+* **Reference:** Ramos, S., Santos, C. M. D., Sousa, M. C. & Gois, J. P. (2021). A sketch-based system for modeling 3D objects: Applications to taxonomy. Zootaxa, 5039 (4), 537–550. [https://doi.org/10.11646/zootaxa.5039.4.5](https://doi.org/10.11646/zootaxa.5039.4.5)
+* **Online Application:** [Access Application](https://drive.google.com/file/d/1KmxztHHVljddl3Yt6vWt6yF1jKMHALp7/view?usp=sharing)
+
+<details>
+<summary>📄 Cite this (BibTeX)</summary>
+<pre>
+@article{ramos2021sketch,
+  title={A sketch-based system for modeling 3D objects: Applications to taxonomy},
+  author={Ramos, S. and Santos, C. M. D. and Sousa, M. C. and Gois, J. P.},
+  journal={Zootaxa},
+  volume={5039},
+  number={4},
+  pages={537--550},
+  year={2021},
+  doi={10.11646/zootaxa.5039.4.5}
+}
+</pre>
+</details>
