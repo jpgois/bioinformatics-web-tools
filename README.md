@@ -5,7 +5,7 @@
 Professors:
 
 * [João Paulo Gois](https://jpgois.github.io/)  
-* Charles M. D. Santos  (charles.santos at ufabc.edu.br)
+* [Charles M. D. Santos](https://charlesmorphy.blogspot.com/)
 * [Muhsen Hammoud](https://sy.linkedin.com/in/muhsen-hammoud)
   
 
