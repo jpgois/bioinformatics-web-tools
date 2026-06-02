@@ -4,9 +4,10 @@
 
 Professors:
 
-* [João Paulo Gois](https://jpgois.github.io/)
-  
+* [João Paulo Gois](https://jpgois.github.io/)  
 * Charles M. D. Santos  (charles.santos at ufabc.edu.br)
+* [Muhsen Hammoud] (https://sy.linkedin.com/in/muhsen-hammoud)
+  
 
   
 ----
