@@ -5,7 +5,7 @@
 Professors:
 
 * [João Paulo Gois](https://jpgois.github.io/)  
-* [Charles M. D. Santos]([https://charlesmorphy.blogspot.com/](https://charlesmorphy.substack.com/)
+* [Charles M. D. Santos]([https://charlesmorphy.blogspot.com/](https://charlesmorphy.substack.com/))
 * [Muhsen Hammoud](https://sy.linkedin.com/in/muhsen-hammoud)
   
 
