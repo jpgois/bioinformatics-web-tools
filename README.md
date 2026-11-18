@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="Biodiversia.png" alt="Logo do grupo de pesquisa Biodiversia" width="420">
-</p>
-
-## Universidade Federal do ABC
+## [Universidade Federal do ABC](https://www.ufabc.edu.br/)
 
 ### Bioinformatics Web Tools 
+
+<p align="center">
+  <img src="Biodiversia.png" alt="Biodiversia research group logo" width="360">
+  <br>
+  <sub>Developed by the <b>Biodiversia</b> research group</sub>
+</p>
 
 Professors:
 
