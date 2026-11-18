@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Biodiversia.png" alt="Logo do grupo de pesquisa Biodiversia" width="420">
+</p>
+
 ## Universidade Federal do ABC
 
 ### Bioinformatics Web Tools 
@@ -14,7 +18,7 @@ Professors:
 
 ### SAMBA: Super area-cladogram after resolving multiple biogeographical ambiguities
 
-* **Reference:** Santos, D., Sampronha, S., Hammoud, M., Gois, J. P., & Santos, C. M. D. (2023). Journal of Biogeography, 50, 816–825. [https://doi.org/10.1111/jbi.14569](https://doi.org/10.1111/jbi.14569)
+* **Reference:** Santos, D., Sampronha, S., Hammoud, M., Gois, J. P., & Santos, C. M. D. (2023). Journal of Biogeography, 50(4), 816–825. [https://doi.org/10.1111/jbi.14569](https://doi.org/10.1111/jbi.14569)
 * **Online Application:** [Access iSAMBA](https://seia.pesquisa.ufabc.edu.br/isamba)
 
 <details>
@@ -25,6 +29,7 @@ Professors:
   author={Santos, D. and Sampronha, S. and Hammoud, M. and Gois, J. P. and Santos, C. M. D.},
   journal={Journal of Biogeography},
   volume={50},
+  number={4},
   pages={816--825},
   year={2023},
   publisher={Wiley Online Library},
